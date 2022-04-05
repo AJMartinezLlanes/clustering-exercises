@@ -4,7 +4,7 @@ import os
 
 from env import get_db_url
 from sklearn.model_selection import train_test_split    
- -
+ 
 import warnings
 warnings.filterwarnings("ignore")
 
